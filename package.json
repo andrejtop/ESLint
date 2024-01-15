@@ -1,0 +1,23 @@
+{
+  "name": "eslint",
+  "version": "1.0.0",
+  "description": "lint",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lint": "eslint ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andrejtop/ESLint.git"
+  },
+  "author": "Andrey",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/andrejtop/ESLint/issues"
+  },
+  "homepage": "https://github.com/andrejtop/ESLint#readme",
+  "devDependencies": {
+    "eslint": "^8.56.0"
+  }
+}
